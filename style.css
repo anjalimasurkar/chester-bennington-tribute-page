@@ -35,13 +35,13 @@ p{
 #img-div {
   display: flex;
   flex-direction:column;
+  padding: 5rem;
 }
 
 #image{
   justify-content: center;
-  border-style: solid;
-  border-color: #008B8B;
   max-width: 100%;
+  box-shadow: 3px 1px 25px 5px #008B8B;
 }
 
 #img-caption{
